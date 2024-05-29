@@ -1,5 +1,3 @@
-content
-
 <center>
   <img src="https://github.com/priyajani028/Funtent/assets/87660206/28559296-5847-453e-aea4-96b130c7a96b" width="100%" height="50%">
 </center>
@@ -22,6 +20,12 @@ content
 ![A4 - 3](https://github.com/priyajani028/Funtent/assets/87660206/75078fdb-75e6-4c5f-bef4-b207b5fd9d59)
 ![A4 - 2](https://github.com/priyajani028/Funtent/assets/87660206/014de1b9-dcc5-459b-8261-2916079b2edd)
 ![A4 - 1](https://github.com/priyajani028/Funtent/assets/87660206/76066ec5-acee-4ddc-89f3-d03800bd3bf4)-->
+
+</br>
+</br>
+Developers and CORS error... it's like a bad dream which everytime becomes true. These errors seem to be difficult to understand first. And we often get stuck debugging and solving the issue without knowing what CORS is... 
+</br>
+</br>
 
 <center>
   <img src="https://github.com/priyajani028/Funtent/assets/87660206/76066ec5-acee-4ddc-89f3-d03800bd3bf4" width="100%" height="50%">
